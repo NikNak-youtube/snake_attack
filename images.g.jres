@@ -1,0 +1,22 @@
+{
+    "image4": "hwQNABAAAAAA8M//APDuAAD/z///7+QA8P/P/+T//wDw//y/Qb9n//////9Pfmf/////7kR+Zw//z+/uRH5nD//M7/9Pfmf/8P//v0G/Z//w///85P//AAD/z/z/7+QAAMDM/wDw7gAAAAAAAAAAAA==",
+    "image5": "hwQQABAAAAAAwPwPAAAAAABsd/cAzMwAwHdsd88WYQxsd/Z3bBcRxnx3ZncsFxHBfHdmd3wSEcF8d/ZnfHcRwXx3bMd3ZxbBbHd3d/dsZsHAd3d3xs9mxwBsd2fPZmbGAMD8/3xnZsYAAAAAfGdmzAAAAAB8x8wMAAAAAMDHAAAAAAAAAMwAAA==",
+    "image6": "hwQQABAAAAAAwPwPAAAAAABsd/cAzMwAwHdsd88WYQxsd/Z3bBcRxnx3ZncsFxHBfHdmd3wSEcF8d/ZnfHcRwXx3bMd3ZxbBbHd3d/dsZsHAd3d3xs9mxwBsd2fPZmbGAMD8/3xnZsYAAAAAfGdmzAAAAAB8x8wMAAAAAMDHAAAAAAAAAMwAAA==",
+    "anim3": {
+        "namespace": "myAnimations",
+        "id": "anim3",
+        "mimeType": "application/mkcd-animation",
+        "data": "ZjQwMTEwMDAxMDAwMDIwMDAwMDAwMGNjY2NjYzAwMDAwMDAwYzA3Njc3NjcwYzAwMDAwMDdjNzc3Nzc3YzcwMDAwYzA3Njc3Nzc3NzY3MGMwMGMwNzdjNzY2NjY3YzBjMDBmMDc3Njc2ZmY2NzYwZjAwZjA3Nzc3Nzc3Nzc3MGYwMGZjNzZjNzc2NzdmNzAwYzA3NzZmNzdjY2NjMGYwMDdjNzdmNzZjNzcyN2M3MDBjYzc2NjdmYzdjMjc3NzBjMDA2YzY2Y2M2ZjE3MTFjMTAwNmY2NmM2NjYxMTExZjEwMGNmNjY2NjE2MTExMWY2MDBmMDY2MTYxMTExNjEwZjAwMDBjZmNjY2NjY2NjMDAwMDAwMDBjMGNjY2MwYzAwMDAwMDAwNmM3Nzc3YzYwMDAwMDBjMDc3Nzc3Nzc3MGMwMDAwNmM3Nzc3Nzc3N2M2MDAwMDdjNzc2YzY2YzZjNzAwMDA3Zjc3ZjY2NjZmZjcwMDAwN2Y3Nzc3Nzc3N2Y3MDAwMDZmNzc2Yzc3NzcwZjAwY2NmYzc2YzdjY2ZjMDBjMDc3YzdmYzc3MjdjNjAwN2M3NzY3Y2Y3NzcyNjcwY2NjNmM2NjZjNzYxMTExMGMwMDZjNjY2NjE2MTExMTBjMDA2YzY2NjYxMTExNjEwYzAwY2M2NjE3MTExMWM2MDAwMGMwY2NjY2NjY2MwYzAw"
+    },
+    "anim4": {
+        "namespace": "myAnimations",
+        "id": "anim4",
+        "mimeType": "application/mkcd-animation",
+        "data": "ZjQwMTEwMDAxMDAwMDIwMDAwMDAwMGNjY2NjYzAwMDAwMDAwYzA3Njc3NjcwYzAwMDAwMDdjNzc3Nzc3YzcwMDAwYzA3Njc3Nzc3NzY3MGMwMGMwNzdjNzY2NjY3YzBjMDBmMDc3Njc2ZmY2NzYwZjAwZjA3Nzc3Nzc3Nzc3MGYwMGZjNzZjNzc2NzdmNzAwYzA3NzZmNzdjY2NjMGYwMDdjNzdmNzZjNzcyN2M3MDBjYzc2NjdmYzdjMjc3NzBjMDA2YzY2Y2M2ZjE3MTFjMTAwNmY2NmM2NjYxMTExZjEwMGNmNjY2NjE2MTExMWY2MDBmMDY2MTYxMTExNjEwZjAwMDBjZmNjY2NjY2NjMDAwMDAwMDBjMGNjY2MwYzAwMDAwMDAwNmM3Nzc3YzYwMDAwMDBjMDc3Nzc3Nzc3MGMwMDAwNmM3Nzc3Nzc3N2M2MDAwMDdjNzc2YzY2YzZjNzAwMDA3Zjc3ZjY2NjZmZjcwMDAwN2Y3Nzc3Nzc3N2Y3MDAwMDZmNzc2Yzc3NzcwZjAwY2NmYzc2YzdjY2ZjMDBjMDc3YzdmYzc3MjdjNjAwN2M3NzY3Y2Y3NzcyNjcwY2NjNmM2NjZjNzYxMTExMGMwMDZjNjY2NjE2MTExMTBjMDA2YzY2NjYxMTExNjEwYzAwY2M2NjE3MTExMWM2MDAwMGMwY2NjY2NjY2MwYzAw"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
